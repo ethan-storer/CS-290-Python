@@ -1,0 +1,1 @@
+This lab is all about creating an interactive dicionary from a JSON file. This interactive dictionary takes a caps-insensitive input from the user and suggests similar words if there are no matches.  
