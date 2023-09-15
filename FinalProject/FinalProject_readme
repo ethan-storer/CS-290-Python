@@ -1,0 +1,2 @@
+The final project utilizes the DrawingPanel library, two CSV files, and the 7% test to determine if a state has Gerrymandered congressional districts.
+The results are displayed in a final DrawingPanel pop-up with a message declaring if the 7% test reveals Gerrymandering or not. 
